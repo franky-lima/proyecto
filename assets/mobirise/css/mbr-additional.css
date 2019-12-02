@@ -1705,37 +1705,18 @@ section.lazy-placeholder:after {
 .cid-rIZL8jFSp6 .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-rJ0lMRycGT {
-  background-image: url("../../../assets/images/callejondehuaylas1-640x427.jpg");
+.cid-rJwAO5tLyL {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/login01-1999x866.png");
 }
-.cid-rJ0lMRycGT .form-control,
-.cid-rJ0lMRycGT .form-control:focus {
-  background: #ffffff;
-  border: 1px solid #ffffff;
-}
-.cid-rJ0lMRycGT .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
-}
-.cid-rJ0lMRycGT textarea.form-control {
-  min-height: 188px;
-}
-.cid-rJ0lMRycGT .input-group-btn {
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-@media (min-width: 768px) {
-  .cid-rJ0lMRycGT .content-container {
-    padding-right: 5rem;
-  }
-}
-.cid-rJ0lMRycGT .mbr-text,
-.cid-rJ0lMRycGT .mbr-section-btn {
-  color: #ff3366;
+.cid-rJwDON7VYM {
+  padding-top: 15px;
+  padding-bottom: 120px;
+  background-color: #c1c1c1;
 }
 .cid-rJ5rDfbbf0 {
-  padding-top: 90px;
+  padding-top: 120px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
